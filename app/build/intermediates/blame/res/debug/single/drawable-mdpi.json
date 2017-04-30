@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    }
+]

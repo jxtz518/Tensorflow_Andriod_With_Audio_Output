@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\tensorflow-classifier-android-master\app\libs\libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045b6e64141f1ee6dd3cffb191d8599ab9afb23f">
+        <dex dex="C:\tensorflow-classifier-android-master\app\build\intermediates\pre-dexed\debug\libandroid_tensorflow_inference_java_9156b7f83160090c60b1049438ddaa02d70f3bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tensorflow-classifier-android-master\app\libs\libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045b6e64141f1ee6dd3cffb191d8599ab9afb23f">
+        <dex dex="D:\tensorflow-classifier-android-master\app\build\intermediates\pre-dexed\debug\libandroid_tensorflow_inference_java_b68c1197cff0c3dd4384867eaa33d03232213697.jar" />
+    </item>
+
+</items>

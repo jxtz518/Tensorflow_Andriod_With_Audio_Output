@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 766
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 766
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 766
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 766
+                    }
+                }
+            }
+        ]
+    }
+]

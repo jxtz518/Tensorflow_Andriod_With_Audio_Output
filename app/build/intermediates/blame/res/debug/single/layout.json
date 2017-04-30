@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "C:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "C:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "F:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "F:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "O:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "O:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "D:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\tensorflow-classifier-android-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]

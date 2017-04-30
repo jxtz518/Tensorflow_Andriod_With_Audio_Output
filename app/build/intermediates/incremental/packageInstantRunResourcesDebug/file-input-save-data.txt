@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Apr 17 16:05:01 CST 2017
+2.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+5.set=ANDROID_RESOURCE
+3.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\camera_connection_fragment.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\camera_connection_fragment_tracking.xml
+4.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\assets\\debug\\retrained_graph_optimized.pb
+4.set=ANDROID_RESOURCE
+6.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\assets\\debug\\retrained_labels.txt
+9.set=ANDROID_RESOURCE
+9.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+10.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ASSET
+7.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_info.png
+6.set=ANDROID_RESOURCE
+0.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\assets\\debug
+3.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\camera_connection_fragment_stylize.xml
+3.set=ANDROID_RESOURCE
+1.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\assets\\debug
+9.base=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=O\:\\tensorflow-classifier-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+8.set=ASSET
+0.set=ANDROID_RESOURCE
