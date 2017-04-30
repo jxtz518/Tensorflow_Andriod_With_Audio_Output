@@ -13,6 +13,7 @@ My enviroment/install:
 3. Android phone with Talk Back
 
 Run the demo:
+Ignore the error saying:"Can not load model Android-Tensorflow-demo-master" the first time opening project in Andriod studio.
 Download all files. Open it in Android Studio, connect your phone, then build it, everything should be good :D
 
 Build the demo with your customized model for classifing new categories:
