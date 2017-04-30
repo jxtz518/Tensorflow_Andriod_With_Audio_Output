@@ -22,7 +22,7 @@ Build the demo with your customized model for classifing new categories:
 Easiest way is to make use of docker provided by Tensorflow:
 Install docker: https://docs.docker.com/engine/installation/, then run following command in the terminal to confirm Docker installation has worked. 
 
- docker run hello-world
+ >docker run hello-world
  
  Start a terminal using Terminal.app.
 
